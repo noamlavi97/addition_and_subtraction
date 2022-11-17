@@ -1,4 +1,4 @@
-# addition_and_subtraction
+# Addition and subtraction using abstract classes
 This is an assignment from the course 'Java advanced programing', 20554 at the Open University of Israel
 Assignment 12, Q1 (semester 2023A).
 

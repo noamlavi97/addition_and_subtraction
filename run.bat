@@ -1,0 +1,3 @@
+cd bin
+java addition_and_subtraction.Randomize_and_run
+pause
